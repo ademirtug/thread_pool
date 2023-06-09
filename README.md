@@ -15,7 +15,7 @@ C++11 thread pool for everyday use.
 - You can queue any function with any parameter with any return type. Enqueue and forget.
 
 ```cpp
-#include "../thread_pool.hpp"
+#include "thread_pool.hpp"
 #include <iostream>
 #include <thread>
 #include <format>
