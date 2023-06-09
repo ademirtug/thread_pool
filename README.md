@@ -8,7 +8,7 @@ C++11 thread pool for everyday use.
 
 - thread_pool is a header only library.
 ```cpp
-#include "ecs_s.hpp"
+#include "thread_pool.hpp"
 ```
 
 ## Basic Usage
